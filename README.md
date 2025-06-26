@@ -1,18 +1,40 @@
-🌿 I just built my own Organic Food Website! 🥕🌾
+# 🌿 Organic Food Website
 
-🔎 This website includes:
+A fully responsive website for showcasing organic food products, designed with a clean and modern aesthetic.
 
-🏡 Home – Welcoming users with a clean hero section
+## 🌱 Overview
 
-👩‍🌾 About – Sharing our organic food story
+This project highlights a simple yet elegant frontend layout focused on promoting organic food. The website is user-friendly and adjusts seamlessly across mobile and desktop screens.
 
-⭐ Features – Highlighting the health benefits
+## 💻 Tech Stack
 
-🛍 Products – Showcasing fresh produce
+- **HTML5** – Semantic structure
+- **CSS3** – Styling and layout
+- **JavaScript** – Basic interactivity
+- **Figma** – Design mockups and planning
+- **VS Code** – Code editor
 
-💬 Reviews – Real feedback from happy customers
+## 🛒 Website Sections
 
-📰 Blogs – Short posts to educate and engage users
+- 🏡 **Home** – A bold, eye-catching introduction to organic living  
+- 👩‍🌾 **About** – Sharing the story and mission of the brand  
+- ⭐ **Features** – Highlighting the health benefits of organic products  
+- 🛍 **Products** – Organized display of fresh organic items  
+- 💬 **Reviews** – Customer testimonials and trust-building feedback  
+- 📰 **Blogs** – Short educational posts about health and nutrition  
 
-🛠️ Built with:
-HTML | CSS | JavaScript
+## 🎯 Key Features
+
+- Fully responsive across devices 📱💻  
+- Clean and intuitive UI/UX design  
+- Smooth navigation and Call-To-Action button  
+- Organized content layout with focus on readability  
+
+## 📸 Screenshots
+
+
+## 🚀 Getting Started
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/Viyathmaranlini/organic-food-website.git
