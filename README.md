@@ -1,4 +1,4 @@
-# 🌿 Organic Food Website
+# 🌿 Green Harvest
 
 A fully responsive website for showcasing organic food products, designed with a clean and modern aesthetic.
 
