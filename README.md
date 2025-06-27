@@ -17,7 +17,7 @@ This project highlights a simple yet elegant frontend layout focused on promotin
 ## 🛒 Website Sections
 
 - 🏡 **Home** – Welcomes visitors with simplicity, clarity, and purpose
-- 👩‍🌾 **About** – Sharing the story and mission of the brand  
+- 👩‍🌾 **About** – – Sharing our organic food story 
 - ⭐ **Features** – Highlighting the health benefits of organic products  
 - 🛍 **Products** – Organized display of fresh organic items  
 - 💬 **Reviews** – Customer testimonials and trust-building feedback  
