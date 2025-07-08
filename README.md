@@ -42,6 +42,6 @@ This project highlights a simple yet elegant frontend layout focused on promotin
 
 ## 🚀 Getting Started
 
-1. Clone the repository  
+ Clone the repository  
    ```bash
    git clone https://github.com/Viyathmaranlini/organic-food-website.git
